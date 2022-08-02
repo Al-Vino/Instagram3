@@ -25,6 +25,11 @@ $ ls ( L kecil )
 $ cd instagram2
 $ python adj-ig3.py
 ```
+## Informasi penting
+```bash
+$-$ Jika gagal dump / tulisan username tidak ditemukan
+$_$ coba cek tumbal lohh apakah aman² aja atau udh terkena cepe
+```
 # cara update
 ```php
 $ cd
