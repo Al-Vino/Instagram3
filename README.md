@@ -1,5 +1,7 @@
-# Coming soon 🔥
-# Segera hadir 😘
+# ENJOY Free 🎉
+Budayakan install lewat github biar ga error asuh 
+# SUPPORT ALL BIT + ALL COUNTRY
+# Hanya Bocil Yang Ga bisa dpet ijoo pepek
 # PAKE DOANG NGGA FOLLOW, KONTOL LOHH
 Logo ♥️
 ![deskripsi gambar](https://i.ibb.co/FBDJ8wN/Screenshot-2022-08-02-00-02-33-863-com-termux.png)
